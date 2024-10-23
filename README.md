@@ -48,7 +48,9 @@ Both font family are in handwritten style, Caveat Brush has a thicker touch whil
 
 ### Framework
 
-<img src="">
+![Lyrics Ideation of "In my Life" by the Beatles](img/lyrics%20ideation.jpg "Lyrics Ideation")
+
+This is my lyrics ideation and the first sketch of how my site would look like. Although ultimately I chose to make it scrollable ultimately but the core was fairly consistent during this project.
 
 ### Platform
 
