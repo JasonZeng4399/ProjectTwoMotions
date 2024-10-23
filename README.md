@@ -46,6 +46,10 @@ HTML is my basic structure that sets up the website.
 
 Both font family are in handwritten style, Caveat Brush has a thicker touch while the Reenie Beanie has much thinner lines to construct a contrast that makes certain words pop out more. That being said, I also appreciate the warm feeling behind these handwritten fonts, it feels less digital and cold. Lastly, the Rock 3D font was added for more chracter and expression. The cute 3d font gives me a childish feeling which suits the content incredibly well since it's about memory of past life and childhood.
 
+### Framework
+
+<img src="">
+
 ### Platform
 
 Coding: Visual Studio Code
